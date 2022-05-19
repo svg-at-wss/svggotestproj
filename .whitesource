@@ -17,5 +17,14 @@
     "workflowRules": {
       "enabled": true
     }
-  }
+  },
+  "hostRules": [
+    {
+      "matchHost": "https://github.com/svg-at-wss",
+      "hostType": "go",
+      "encrypted": {
+        "token": "wcBMA8xOaBJvzJNbAQf+LACcqzWiAiZueKvRLglYpodWDe01XhQOHy0riJuK1CKORXY4oQLJ83eOUQimuv55Q5KybqnFKVcIjWLTDu23KYSH38Zxs0W1/1Bukc35te/mm3phxtuYEbJe2y195jkfwBXSZ4LbF1xJ+gd57ykxZi8LuOPwlkKuQgLvTpEKY+u+6Yc/ava8dYYQQQLdf7eLq3mew+QTKhp6LXgduIuexefk1983aNNNHIuv/81lC3/cKNzhqAvjlwqgjgRIeUQUd2Z2qXMRAlOHpY90hqEolNVtbO2I8M+Y7rbYbGosmA0Tvj38SVjBhwQ6k9QBZ6r/EX0oONawWHdOKf0Lo4ev3tJ5AbpjmxFgYvhdPhh069uFAVzYXOMAodRRilAldN232vZh4hyaGo3bn+4ujtoO9739jm1Y4+pDfcUWVadVmsI7q5UPkB5R6UH6CP2WKmFEbU+/cDUhz5DLHb86dHNGAKvzaX/MXDJnHCPSqloclobTPReO0lEHysIpAw"
+      }
+    }
+  ]
 }
